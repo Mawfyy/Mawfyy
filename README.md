@@ -5,5 +5,5 @@
 
   <br />
 
-  <i>Mawfyy · Backend/Full-Stack Engineer · Cali, Colombia</i>
+  <i>Mawfyy · Software Developer · Cali, Colombia</i>
 </div>
